@@ -1,4 +1,4 @@
-package br.com.bruno.dio_spring_security_jwt.security;
+package br.com.bruno.dio_spring_security_jwt.service;
 
 import br.com.bruno.dio_spring_security_jwt.model.User;
 import br.com.bruno.dio_spring_security_jwt.repository.UserRepository;
